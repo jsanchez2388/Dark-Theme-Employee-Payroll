@@ -1,4 +1,0 @@
-""" 
-Here is my sample push
-
-"""
