@@ -9,6 +9,6 @@ class Employee(models.Model):
         on_delete = models.CASCADE,
         primary_key = True,
     )
-    date_hired = models.DateField
+    date_hired = models.DateField()
     pay_rate = models.FloatField()
     status = models.BooleanField()
